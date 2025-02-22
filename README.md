@@ -14,5 +14,4 @@ Dieses Repository enthält die Installationsdateien für das Projekt **"Greengra
 
 ---
 
-📄 **Lizenz:** Dieses Projekt unterliegt den geltenden Lizenzbestimmungen. Weitere Details finden Sie in der Datei `LICENSE`.  
 ✉️ **Kontakt:** Für Anfragen oder Unterstützung kontaktieren Sie bitte das Projektteam.
